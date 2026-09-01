@@ -92,10 +92,9 @@ These filters allow users to dynamically explore different aspects of the sales 
 ```text
 Mobile-Sales-Dashboard/
 │
-├── Mobile Sales Dashboard.pbix
 ├── README.md
-└── Screenshots/
-    └── dashboard.png
+├── mobile-sales-dashboard.pbix
+└── mobile-sales-dashboard.png
 ```
 
 ---
@@ -239,6 +238,5 @@ Power BI Dashboard End to End Project with DAX Formula for Beginners 2025
 
 🔗 https://www.youtube.com/watch?v=znJGWMtk_EE
 
-Credit for the original tutorial and practice dataset goes to the tutorial creator.
 ---
 
