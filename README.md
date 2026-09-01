@@ -181,13 +181,13 @@ mobile-sales-dashboard/
 └── images/
     └── dashboard-overview.png
 ---
-🚀 How to Use
+## 🚀 How to Use
 Download the Mobile_Sales_Dashboard.pbix file from the powerbi folder.
 Open the file using Microsoft Power BI Desktop.
 Use the available filters to explore the dashboard.
 Interact with the visualizations to analyze different aspects of mobile sales performance.
 ---
-📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 Data Cleaning
 Data Transformation
 Data Analysis
@@ -199,7 +199,7 @@ Interactive Dashboard Development
 Dashboard Design
 Business Insight Generation
 ---
-📌 Dataset & Inspiration
+##📌 Dataset & Inspiration
 
 This project was created as a learning and portfolio project based on a Power BI tutorial.
 
@@ -212,7 +212,7 @@ Power BI Dashboard End to End Project with DAX Formula for Beginners 2025
 Credit for the original tutorial and practice dataset goes to the tutorial creator.
 ---
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Priya Choudhary
 
