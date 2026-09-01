@@ -1,203 +1,220 @@
-# 📱 Mobile Sales Dashboard – Power BI
+# 📊 Mobile Sales Dashboard – Power BI
 
 ## 📌 Project Overview
 
-This project presents an interactive **Mobile Sales Dashboard** created using **Microsoft Power BI**.
+This project is an interactive **Mobile Sales Dashboard** created using **Microsoft Power BI** to analyze mobile phone sales performance.
 
-The dashboard analyzes mobile phone sales performance and provides insights into total sales, quantity sold, transactions, customer ratings, payment methods, brand performance, mobile model performance, city-wise sales, monthly trends, and sales by day of the week.
+The dashboard provides insights into sales trends, total revenue, quantities sold, transactions, customer behavior, payment methods, mobile brands, and geographical sales performance.
 
-The objective of this project was to practice data cleaning, data transformation, DAX calculations, data visualization, and interactive dashboard development using Power BI.
+The goal of this project is to transform raw sales data into meaningful and interactive visual insights that can support business decision-making.
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Objectives
 
 The main objectives of this project are:
 
-- Analyze overall mobile sales performance
-- Track total sales and total quantity sold
-- Analyze total transactions
-- Compare sales performance across mobile brands
-- Identify top-performing mobile models
-- Analyze sales across different cities
-- Understand monthly sales and quantity trends
-- Analyze customer ratings
-- Compare transactions by payment method
-- Analyze sales performance by day of the week
-- Build an interactive dashboard for business analysis
+* Analyze overall mobile sales performance
+* Track total sales revenue and quantity sold
+* Identify top-performing mobile brands and models
+* Analyze sales trends over time
+* Understand customer purchasing behavior
+* Compare different payment methods
+* Analyze sales performance across different cities
+* Identify key patterns and trends in the sales data
+* Create an interactive dashboard for business analysis
+
+---
+
+## 📊 Dashboard Features
+
+The dashboard includes the following key metrics and visualizations:
+
+### 🔹 Key Performance Indicators (KPIs)
+
+* **Total Sales**
+* **Total Quantity Sold**
+* **Total Transactions**
+* **Average Selling Price**
+
+### 🔹 Sales Analysis
+
+* Monthly sales trends
+* Sales by mobile brand
+* Sales by mobile model
+* Quantity sold by brand
+* Sales performance over time
+
+### 🔹 Customer Analysis
+
+* Customer ratings
+* Customer purchasing patterns
+* Sales distribution based on customer characteristics
+
+### 🔹 Payment Analysis
+
+* Sales by payment method
+* Comparison of different payment options
+
+### 🔹 Geographic Analysis
+
+* Sales performance by city
+* Geographical distribution of mobile sales
+
+### 🔹 Interactive Filters
+
+Users can interact with the dashboard using filters/slicers such as:
+
+* Brand
+* Mobile Model
+* Payment Method
+* City
+* Date
+* Other available categories
+
+These filters allow users to dynamically explore different aspects of the sales data.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Microsoft Excel
+* **Microsoft Power BI**
+* **Power Query**
+* **DAX**
+* **Data Visualization**
+* **Data Cleaning & Transformation**
 
 ---
 
-## 📊 Key Performance Indicators
+## 📂 Project Structure
 
-| KPI | Value |
-|---|---:|
-| Total Sales | 769M |
-| Total Quantity | 19K |
-| Average Price | 40K |
-| Transactions | 4K |
+```text
+Mobile-Sales-Dashboard/
+│
+├── Mobile Sales Dashboard.pbix
+├── README.md
+└── Screenshots/
+    └── dashboard.png
+```
 
----
-
-## 📈 Dashboard Features
-
-### 🔹 Sales Overview
-
-The dashboard provides an overview of:
-
-- Total Sales
-- Total Quantity
-- Average Price
-- Total Transactions
-
-### 🔹 Sales by City
-
-A map visualization displays total mobile sales across different cities in India.
-
-### 🔹 Quantity by Month
-
-A monthly trend chart shows the quantity of mobile phones sold from January to December.
-
-### 🔹 Customer Ratings
-
-Customer ratings from 1 to 5 are analyzed to understand the distribution of customer ratings.
-
-### 🔹 Transactions by Payment Method
-
-Transactions are analyzed across:
-
-- UPI
-- Cash
-- Debit Card
-- Credit Card
-
-### 🔹 Sales by Mobile Model
-
-The dashboard compares total sales across different mobile models.
-
-### 🔹 Brand Performance
-
-Mobile brands are compared based on:
-
-- Total Sales
-- Total Quantity
-- Transactions
-
-### 🔹 Sales by Day Name
-
-Sales performance is analyzed across different days of the week.
+> The `.pbix` file contains the complete Power BI dashboard, data model, transformations, measures, and visualizations.
 
 ---
 
-## 🧹 Data Preparation
+## 🔄 Data Analysis Process
 
-The data was prepared before developing the dashboard.
+The project follows a basic data analytics workflow:
 
-The preparation process included:
+```text
+Raw Data
+   ↓
+Data Cleaning & Transformation
+   ↓
+Data Modeling
+   ↓
+DAX Measures & Calculations
+   ↓
+Data Visualization
+   ↓
+Interactive Power BI Dashboard
+   ↓
+Business Insights
+```
 
-- Checking for missing values
-- Checking for duplicate records
-- Correcting data types
-- Cleaning and transforming data
-- Preparing fields for analysis
-- Creating required DAX measures
+---
+
+## 🧹 Data Cleaning & Transformation
+
+The dataset was prepared using **Power Query** before creating the dashboard.
+
+The data preparation process included tasks such as:
+
+* Removing unnecessary columns
+* Checking for missing values
+* Correcting data types
+* Cleaning inconsistent values
+* Formatting date-related fields
+* Preparing fields for analysis
+* Creating appropriate columns for visualization
+
+---
+
+## 📐 Data Modeling & DAX
+
+Power BI was used to create the data model and analytical calculations required for the dashboard.
+
+DAX measures were used to calculate important business metrics such as:
+
+* Total Sales
+* Total Quantity
+* Total Transactions
+* Average Selling Price
+* Other calculated performance indicators
+
+These measures make the dashboard dynamic and allow the values to update automatically when filters are applied.
+
+---
+
+## 📈 Key Insights
+
+The dashboard can be used to identify insights such as:
+
+* Which mobile brands generate the highest sales
+* Which mobile models are most popular
+* How sales change over time
+* Which cities contribute the most to overall sales
+* Which payment methods are commonly used
+* Customer rating patterns
+* Overall sales and quantity performance
+
+These insights can help businesses understand their sales performance and make data-driven decisions.
+
+---
+
+## 💡 Skills Demonstrated
+
+This project demonstrates the following skills:
+
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Data Modeling
+* DAX
+* Power Query
+* KPI Development
+* Data Visualization
+* Dashboard Design
+* Interactive Reporting
+* Business Intelligence
+* Insight Generation
+
+---
+
+## 🎓 How to Use
+
+1. Download or clone this repository.
+2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+3. Refresh the data if required.
+4. Use the available slicers and filters to interact with the dashboard.
+5. Explore the visualizations and KPIs to analyze mobile sales performance.
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Mobile Sales Dashboard](images/dashboard-overview.png)
+Add a screenshot of your completed dashboard here.
 
----
-
-## 🔍 Key Insights
-
-The dashboard provides several insights into mobile sales performance:
-
-- Total sales are approximately **769M**.
-- Approximately **19K mobile units** were sold across **4K transactions**.
-- The average mobile price is approximately **40K**.
-- Apple records the highest total sales among the brands shown in the dashboard.
-- Customers giving a **5-star rating** represent the highest rating category by volume.
-- Transactions are distributed across UPI, cash, debit card, and credit card payments.
-- Sales performance varies across different cities.
-- Monthly quantity trends show changes in sales volume throughout the year.
-- Sales also vary across different days of the week.
-
----
-
-## 💡 Business Recommendations
-
-Based on the analysis, businesses can:
-
-- Focus on high-performing brands and mobile models.
-- Identify cities with stronger sales performance and optimize inventory accordingly.
-- Use monthly sales trends for inventory and sales planning.
-- Monitor customer ratings to improve customer satisfaction.
-- Analyze payment preferences when designing payment offers.
-- Use high-performing days for targeted promotional campaigns.
-
----
-
-## 📁 Project Structure
+Example:
 
 ```text
-mobile-sales-dashboard/
-│
-├── README.md
-│
-├── powerbi/
-│   └── Mobile_Sales_Dashboard.pbix
-│
-└── images/
-    └── dashboard-overview.png
+![Mobile Sales Dashboard](Screenshots/dashboard.png)
+```
 
 ---
 
-## 🚀 How to Use
+## 📚 Project Purpose
 
-1. Download the `Mobile_Sales_Dashboard.pbix` file from the `powerbi` folder.
-2. Open the file using **Microsoft Power BI Desktop**.
-3. Use the available filters to explore the dashboard.
-4. Interact with the visualizations to analyze different aspects of mobile sales performance.
-
----
-
-## 📚 Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Data Analysis
-- Data Visualization
-- Microsoft Power BI
-- Power Query
-- DAX
-- Interactive Dashboard Development
-- Dashboard Design
-- Business Insight Generation
-
----
-
-## 📌 Dataset & Inspiration
-
-This project was created as a **learning and portfolio project** based on a Power BI tutorial.
-
-The dataset and project concepts were obtained from the following YouTube tutorial:
-
-**Power BI Dashboard End to End Project with DAX Formula for Beginners 2025**
-
-🔗 https://www.youtube.com/watch?v=znJGWMtk_EE
-
-Credit for the original tutorial and practice dataset goes to the tutorial creator.
+This project was created as part of my **Data Analytics learning and portfolio development** to practice working with Power BI and demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development.
 
 ---
 
@@ -205,6 +222,31 @@ Credit for the original tutorial and practice dataset goes to the tutorial creat
 
 **Priya Choudhary**
 
-Aspiring Data Analyst
+### Skills Demonstrated
 
-[LinkedIn](YOUR_LINKEDIN_LINK) | [Portfolio](YOUR_PORTFOLIO_LINK) | [GitHub](YOUR_GITHUB_LINK)
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Data Visualization
+* Dashboard Development
+* Business Intelligence
+
+---
+
+## 📌 Disclaimer
+
+TThis project was created as a learning and portfolio project based on a Power BI tutorial.
+
+The dataset and project concepts were obtained from the following YouTube tutorial:
+
+Power BI Dashboard End to End Project with DAX Formula for Beginners 2025
+
+🔗 https://www.youtube.com/watch?v=znJGWMtk_EE
+
+Credit for the original tutorial and practice dataset goes to the tutorial creator.
+---
+
+⭐ If you found this project useful, feel free to explore the repository and connect with me on LinkedIn.
