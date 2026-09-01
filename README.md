@@ -182,38 +182,60 @@ mobile-sales-dashboard/
     └── dashboard-overview.png
 ---
 ## 🚀 How to Use
-Download the Mobile_Sales_Dashboard.pbix file from the powerbi folder.
-Open the file using Microsoft Power BI Desktop.
-Use the available filters to explore the dashboard.
-Interact with the visualizations to analyze different aspects of mobile sales performance.
----
-## 📚 Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Analysis
-Data Visualization
-Microsoft Power BI
-Power Query
-DAX
-Interactive Dashboard Development
-Dashboard Design
-Business Insight Generation
----
-##📌 Dataset & Inspiration
 
-This project was created as a learning and portfolio project based on a Power BI tutorial.
+1. Download the `Mobile_Sales_Dashboard.pbix` file from the `powerbi` folder.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Use the available filters to explore the dashboard.
+4. Interact with the visualizations to analyze different aspects of mobile sales performance.
+
+---
+
+## 📚 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Data Visualization
+- Microsoft Power BI
+- Power Query
+- DAX
+- Interactive Dashboard Development
+- Dashboard Design
+- Business Insight Generation
+
+---
+
+## 📌 Dataset & Inspiration
+
+This project was created as a **learning and portfolio project** based on a Power BI tutorial.
 
 The dataset and project concepts were obtained from the following YouTube tutorial:
 
-Power BI Dashboard End to End Project with DAX Formula for Beginners 2025
+**Power BI Dashboard End to End Project with DAX Formula for Beginners 2025**
 
 🔗 https://www.youtube.com/watch?v=znJGWMtk_EE
 
 Credit for the original tutorial and practice dataset goes to the tutorial creator.
+
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
-Priya Choudhary
+**Priya Choudhary**
 
-Aspiring Data Analyst
+Aspiring Data Analyst passionate about transforming data into meaningful insights through analysis and visualization.
+
+### Skills Demonstrated
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Cleaning & Transformation
+- Data Analysis
+- Data Visualization
+- Dashboard Development
+- Business Insights
+
+### Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
