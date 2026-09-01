@@ -201,8 +201,7 @@ This project demonstrates the following skills:
 
 ## 📸 Dashboard Preview
 
-Add a screenshot of your completed dashboard here.
-
+![Mobile Sales Dashboard](Screenshots/mobile-sales-dashboard.png)
 Example:
 
 ```text
