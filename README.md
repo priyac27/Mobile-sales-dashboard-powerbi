@@ -207,7 +207,7 @@ This project demonstrates the following skills:
 
 ---
 
-## 📚 Project Purpose
+**## 📚 Project Purpose**
 
 This project was created as part of my **Data Analytics learning and portfolio development** to practice working with Power BI and demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development.
 
@@ -233,7 +233,7 @@ This project was created as part of my **Data Analytics learning and portfolio d
 
 ## 📌 Disclaimer
 
-TThis project was created as a learning and portfolio project based on a Power BI tutorial.
+This project was created as a learning and portfolio project based on a Power BI tutorial.
 
 The dataset and project concepts were obtained from the following YouTube tutorial:
 
@@ -244,4 +244,3 @@ Power BI Dashboard End to End Project with DAX Formula for Beginners 2025
 Credit for the original tutorial and practice dataset goes to the tutorial creator.
 ---
 
-⭐ If you found this project useful, feel free to explore the repository and connect with me on LinkedIn.
