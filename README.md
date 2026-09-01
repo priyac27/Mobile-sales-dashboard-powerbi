@@ -203,11 +203,9 @@ This project demonstrates the following skills:
 
 ![Mobile Sales Dashboard](mobile-sales-dashboard.png)
 
-```
-
 ---
 
-**## 📚 Project Purpose**
+## 📚 Project Purpose
 
 This project was created as part of my **Data Analytics learning and portfolio development** to practice working with Power BI and demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development.
 
