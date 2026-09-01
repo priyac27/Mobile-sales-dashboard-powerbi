@@ -4,9 +4,10 @@
 
 This project is an interactive **Mobile Sales Dashboard** created using **Microsoft Power BI** to analyze mobile phone sales performance.
 
-The dashboard provides insights into sales trends, total revenue, quantities sold, transactions, customer behavior, payment methods, mobile brands, and geographical sales performance.
+The dashboard analyzes mobile phone sales performance and provides insights into total sales, quantity sold, transactions, customer ratings, payment methods, brand performance, mobile model performance, city-wise sales, monthly trends, and sales by day of the week.
 
-The goal of this project is to transform raw sales data into meaningful and interactive visual insights that can support business decision-making.
+The objective of this project was to practice data cleaning, data transformation, DAX calculations, data visualization, and interactive dashboard development using Power BI.
+
 
 ---
 
@@ -96,8 +97,6 @@ Mobile-Sales-Dashboard/
 └── Screenshots/
     └── dashboard.png
 ```
-
-> The `.pbix` file contains the complete Power BI dashboard, data model, transformations, measures, and visualizations.
 
 ---
 
